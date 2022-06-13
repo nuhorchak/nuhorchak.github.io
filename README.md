@@ -10,18 +10,25 @@ CV](https://github.com/nuhorchak/resume/blob/master/pdfs/uhorchak_cv.pdf)
 
 R 
 </div>
+
 Python 
 </div>
+
 SQL
 </div>
+
 Neo4j/Cypher 
 </div>
+
 MongoDB 
 </div>
+
 PowerBI
 </div>
+
 DataRobot 
 </div>
+
 VBA 
 
 </div>
