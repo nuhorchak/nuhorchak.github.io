@@ -3,13 +3,6 @@ Nick Uhorchak’s CV
 Nick Uhorchak
 2022-06-13
 
-# Aside
-
-<figure>
-<img src="bio_pic.jpg" style="width:80.0%" alt="logo" />
-<figcaption aria-hidden="true">logo</figcaption>
-</figure>
-
 [<i class='fas fa-download'></i> Download a PDF of this
 CV](https://github.com/nuhorchak/resume/blob/master/pdfs/uhorchak_cv.pdf)
 
