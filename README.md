@@ -6,76 +6,15 @@ Nick Uhorchak
 [<i class='fas fa-download'></i> Download a PDF of this
 CV](https://github.com/nuhorchak/resume/blob/master/pdfs/uhorchak_cv.pdf)
 
-## Contact
-
--   <i class='fa fa-envelope'></i> <nuhorchak@gmail.com>
--   <i class='fa fa-twitter'></i> nuhorchak
--   <i class='fa fa-github'></i> github.com/nuhorchak/
--   <i class='fa fa-link'></i> nuhorchak.github.io/
--   <i class='fa fa-linkedin'></i> linkedin.com/in/nicholas-uhorchak/
-
 ## Language Skills
 
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 100%,
-                                      #d9d9d9 100% 100%);">
-
 R
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 100%,
-                                      #d9d9d9 100% 100%);">
-
 Python
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 80%,
-                                      #d9d9d9 80% 100%);">
-
 SQL
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 70%,
-                                      #d9d9d9 70% 100%);">
-
 Neo4j/Cypher
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 70%,
-                                      #d9d9d9 70% 100%);">
-
 MongoDB
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 60%,
-                                      #d9d9d9 60% 100%);">
-
 PowerBI
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 60%,
-                                      #d9d9d9 60% 100%);">
-
 DataRobot
-
-</div>
-
-<div class="skill-bar" style="background:linear-gradient(to right,
-                                      #969696 60%,
-                                      #d9d9d9 60% 100%);">
-
 VBA
 
 </div>
@@ -93,8 +32,6 @@ Last updated on 2022-06-13.
 # Main
 
 ## Nick Uhorchak
-
-User ID: <nuhorchak@gmail.com>
 
 I have worked on a variety of data science and operations research
 projects, ranging from simple statistical analysis to predictive
