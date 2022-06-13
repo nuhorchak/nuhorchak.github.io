@@ -8,14 +8,14 @@ CV](https://github.com/nuhorchak/resume/blob/master/pdfs/uhorchak_cv.pdf)
 
 ## Language Skills
 
-R
-Python
-SQL
-Neo4j/Cypher
-MongoDB
-PowerBI
-DataRobot
-VBA
+R </div>
+Python </div>
+SQL </div>
+Neo4j/Cypher </div>
+MongoDB </div>
+PowerBI </div>
+DataRobot </div>
+VBA 
 
 </div>
 
